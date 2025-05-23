@@ -4,6 +4,12 @@ This project focuses on analyzing Walmart store sales data using **advanced MySQ
 
 ![image](https://github.com/user-attachments/assets/6c0dc904-5e87-436a-9ed0-53bb09b2c564)
 
+
+## 🎥 Project Walkthrough
+
+Watch the project demo here:
+📺 [Click to watch](https://drive.google.com/file/d/1EVL5y2svSt-4xTiZUHcZMW6n7epwYhmB/view?usp=drive_link)
+
 ## 📁 Files Included
 
 * **All\_10\_Tasks.sql** – Contains SQL queries for all analysis tasks
@@ -44,10 +50,6 @@ The project investigates the following key business questions:
 * Adjust **staffing and inventory** for weekends to meet higher demand.
 * Promote **popular product lines** based on membership status.
 
-## 🎥 Project Walkthrough
-
-Watch the project demo here:
-📺 [Click to watch](https://drive.google.com/file/d/1EVL5y2svSt-4xTiZUHcZMW6n7epwYhmB/view?usp=drive_link)
 
 ---
 
