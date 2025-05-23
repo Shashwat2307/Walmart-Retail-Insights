@@ -2,6 +2,8 @@
 
 This project focuses on analyzing Walmart store sales data using **advanced MySQL queries**. The goal is to derive actionable insights into sales performance, customer behavior, and operational trends from transactional data.
 
+![Uploading image.png…]()
+
 ## 📁 Files Included
 
 * **All\_10\_Tasks.sql** – Contains SQL queries for all analysis tasks
